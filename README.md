@@ -11,10 +11,10 @@ Proyecto de maquetación e implementación de una card de tipo Airbnb utilizando
 
 
 ## Herramientas :computer:
-HTML
-CSS
-Netlify
-Sonarcloud
+- HTML
+- CSS
+- Netlify
+- Sonarcloud
 
 ## Preview :camera:
 [Vista previa de la Card](https://demo-html-css-2024-11-25.netlify.app/) 
