@@ -12,6 +12,11 @@ ul{
 /** FIN DE LOS RESETS**/
 
 
+.header{
+    position: relative;
+}
+
+
 body{
     background-color:#eee ;
     padding: 0,5rem;
@@ -49,7 +54,7 @@ body{
     margin-bottom: 0px;
 }
 
-h4{
+.card__title-h4{
     color: gray;
     margin-bottom: 4px;
 }
@@ -87,7 +92,7 @@ h4{
         
 }
 
-h2{
+.card__title-h2{
     margin-right: 16px;
     font-size: 18px;
 }
